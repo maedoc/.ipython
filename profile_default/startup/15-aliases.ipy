@@ -2,4 +2,4 @@
 %alias gb git branch
 %alias gc git commit
 %alias git git
-
+%alias vim C:/Git/usr/bin/vim.exe
